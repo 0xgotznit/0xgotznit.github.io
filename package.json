@@ -1,7 +1,7 @@
 {
-  "name": "0xgotznit-portfolio",
+  "homepage": "https://0xgotznit.github.io/",
+  "name": "0xgotznit",
   "version": "0.1.0",
-  "homepage": "https://0xgotznit.github.io",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
@@ -18,7 +18,7 @@
     "react-flag-kit": "^1.1.1",
     "react-i18next": "^14.0.1",
     "react-icons": "^5.0.1",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
