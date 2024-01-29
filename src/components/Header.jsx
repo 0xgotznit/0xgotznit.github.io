@@ -6,7 +6,7 @@ import { useTranslation } from 'react-i18next';
 const Header = () => {
     const { t } = useTranslation();
 
-  const cvUrl = 'https://example.com/your-cv.pdf'; // Replace with your actual CV URL
+  const cvUrl = 'https://0xgotznit.github.io/ai-git.pdf'; // Replace with your actual CV URL
 
   return (
     <Box mt={0}>
