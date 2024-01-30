@@ -6,7 +6,7 @@ import { Center } from '@chakra-ui/react';
 const Footer = () => {
   return (
     <footer>
-      <Center mt={3}>
+      <Center mt={9}>
         <Social />
       </Center>
       <Copyright />
