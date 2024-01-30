@@ -20,7 +20,7 @@ const Header = () => {
         <Link mx={2} href={blogMediumUrl}>{t('blog')}</Link>
         <Link mx={2} href={githubUrl}>{t('code')}</Link>
         <Link mx={2} href={watchListUrl}>{t('watchlist')}</Link>
-        <Link mx={2} href={linksUrl}>{t('links')}</Link>
+        <Link mx={2} href={linksUrl}>{t('roadmap')}</Link>
       </Flex>
     </Box>
   );
