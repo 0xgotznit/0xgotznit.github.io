@@ -1,6 +1,6 @@
 import React from 'react';
 import {Center} from '@chakra-ui/react';
-import Header from './components/Header';
+import NavBar from './components/NavBar';
 import Profile from './components/Profile';
 import Footer from './components/Footer';
 import Logo from './components/Logo'
@@ -17,7 +17,7 @@ function App() {
             <Logo/>
             <GreetingTitle/>
             <Center mt={4} width="100%">
-                <Header/>
+                <NavBar/>
             </Center>
             <Center mt={2}>
                 <Profile/>

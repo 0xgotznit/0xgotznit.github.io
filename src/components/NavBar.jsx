@@ -3,14 +3,14 @@ import React from "react";
 import { Box, Link, Flex } from '@chakra-ui/react';
 import { useTranslation } from 'react-i18next';
 
-const Header = () => {
+const NavBar = () => {
     const { t } = useTranslation();
 
   const cvUrl = 'https://0xgotznit.github.io/ai-git.pdf';
   const blogMediumUrl = 'https://medium.com/@0xgotznit'
-    const githubUrl = 'https://github.com/@0xgotznit'
+    const githubUrl = 'https://github.com/0xgotznit'
     const watchListUrl = 'https://gilded-brisket-517.notion.site/Watchlist-1ac2403c0be74b529f2d3a1038729f71?pvs=4';
-    const linksUrl = 'https://github.com/@0xgotznit'
+    const linksUrl = 'https://gilded-brisket-517.notion.site/7e1bd99c7d68493dae1b32f1368b39a6?v=284d2b6a264f43458a03eb78cf216540'
 
   return (
     <Box mt={0}>
@@ -26,4 +26,4 @@ const Header = () => {
   );
 }
 
-export default Header;
+export default NavBar;
