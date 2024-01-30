@@ -11,7 +11,7 @@ const resources = {
           'cv': 'CV',
           'blog': 'Blog',
           'code': 'Code',
-          'books': 'Books',
+          'watchlist': 'Watchlist',
           'links': 'Links',
           // ...more translations for English
         }
@@ -23,7 +23,7 @@ const resources = {
           'cv': 'CV',
           'blog': 'Blog',
           'code': 'Code',
-          'books': 'Livres',
+          'watchlist': 'Liste de suivi',
           'links': 'Liens',
 
         }

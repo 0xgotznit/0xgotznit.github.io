@@ -6,7 +6,6 @@ const GreetingTitle = () => {
 
     const { t } = useTranslation();
 
-
     return (
         <Flex alignItems="center" flexDirection="column">
         <Flex alignItems="baseline" mt={2}>
